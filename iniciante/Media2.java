@@ -13,7 +13,11 @@ public class Media2 {
         double somaP = pesoA + pesoB + pesoC;
         double MEDIA = (A * pesoA + B * pesoB + C * pesoC) / somaP;
         System.out.printf("MEDIA = %.1f\n", MEDIA);
+<<<<<<< HEAD
         
+=======
+
+>>>>>>> a4adf0b20f2d14c590fdb4f17c2faf40a2b3acd4
         sc.close();
     }
 }

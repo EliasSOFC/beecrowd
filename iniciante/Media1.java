@@ -8,7 +8,7 @@ import java.util.Locale;
  *      Class name must be "Main" for your solution to execute
  *      El nombre de la clase debe ser "Main" para que su solución ejecutar
  */
-public class Main {
+public class Media1 {
  
     public static void main(String[] args) throws IOException {
  
